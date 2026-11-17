@@ -7,7 +7,7 @@ Simulador web interactivo de monitoreo ambiental diseñado para analizar la cali
 * **Circuito base en Tinkercad:** https://www.tinkercad.com/things/jf88RFecbVT-proyecto-lab-environment-telelol
 
 ## Instrucciones de Uso y Ejecución
-1. Abrir directamente el enlace de GitHub de nuestro simulador **Aplicación Web (MVP activo):** en cualquier navegador web (no requiere instalación local).
+1. Abrir directamente el enlace de GitHub de nuestra **Aplicación Web** en cualquier navegador web (no requiere instalación local).
 2. Presionar el botón **«Encender»** para iniciar la adquisición de datos simulados del Arduino (promedio móvil de 5 lecturas).
 3. Modificar las condiciones ambientales en la sección **«Tú controlas la sala»** y observar la respuesta en tiempo real en los indicadores numéricos, el semáforo de estado, los gráficos temporales y la consola serial (**«Lo que escribe el Arduino»**).
 4. Consultar la pestaña **«Guía de Telelol»** para revisar los umbrales críticos (Temperatura > 26 °C, Gases > 550 ppm, CO₂ > 1000 ppm) y el procedimiento experimental.
