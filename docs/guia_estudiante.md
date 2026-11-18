@@ -156,7 +156,7 @@ La simulación contiene variaciones aleatorias pequeñas y una media móvil de c
 
 Redacta un párrafo corto con **una observación cuantitativa de A**, **una observación cuantitativa de B**, tu interpretación y la decisión sobre la hipótesis. Relaciona el ejercicio con ventilación de salas, confort térmico o monitoreo ambiental, aclarando que el prototipo no reemplaza instrumentos profesionales.
 
-**Plantilla para completar:** «En el paso 30, el ensayo con ventana cerrada registró ____ °C y ____ ppm de CO₂ simulado. Con ventana abierta registró ____ °C y ____ ppm. Esta diferencia indica que ____. Por ello, la hipótesis se [apoya/no se apoya] dentro del modelo utilizado».
+**Plantilla para completar:** «En el paso 30, el ensayo con ventana cerrada registró 36.1 °C y 2085 ppm de CO₂ simulado. Con ventana abierta registró 25.5 °C y 990 ppm. Esta diferencia indica que la ventana abierta hace que no se sofoque la sala. Por ello, la hipótesis se [apoya] dentro del modelo utilizado».
 
 ## 16. Recomendaciones de seguridad y uso
 
