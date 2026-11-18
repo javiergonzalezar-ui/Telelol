@@ -13,8 +13,8 @@ Simulador web interactivo de monitoreo ambiental diseñado para analizar la cali
 4. Consultar la pestaña **«Guía de Telelol»** para revisar los umbrales críticos (Temperatura > 26 °C, Gases > 550 ppm, CO₂ > 1000 ppm) y el procedimiento experimental.
 
 ## Equipo y Roles Asignados
-* **Product Owner:** Javier González
-* **Responsable Científico:** Eduardo Valenzuela
-* **Hardware / Instrumentación:** Diego Cariz
-* **Software / Datos:** Gaspar Lineros
-* **Pedagógico / Documentación:** Camilo Gómez
+* **Product Owner:** Javier González.
+* **Responsable Científico:** Eduardo Valenzuela.
+* **Hardware / Instrumentación:** Diego Cariz.
+* **Software / Datos:** Gaspar Lineros.
+* **Pedagógico / Documentación:** Camilo Gómez.
