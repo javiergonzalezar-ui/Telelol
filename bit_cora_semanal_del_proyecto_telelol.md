@@ -5,7 +5,6 @@
 **Temática Asignada:** LabEnvironment — Variables Ambientales (Calor, Fluidos y Calidad del Aire en el Aula)  
 **Enlace Interfaz Activa:** [https://javiergonzalezar-ui.github.io/Telelol/](https://javiergonzalezar-ui.github.io/Telelol/)  
 **Repositorio Oficial:** [https://github.com/javiergonzalezar-ui/Telelol](https://github.com/javiergonzalezar-ui/Telelol)  
-**Circuito Tinkercad:** [Proyecto LabEnvironment Telelol](https://www.tinkercad.com/things/jf88RFecbVT-proyecto-lab-environment-telelol)  
 
 ---
 
