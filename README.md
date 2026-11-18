@@ -16,5 +16,5 @@ Simulador web interactivo de monitoreo ambiental diseñado para analizar la cali
 * **Product Owner:** Javier González
 * **Responsable Científico:** Eduardo Valenzuela
 * **Hardware / Instrumentación:** Diego Cariz
-* **Software / Datos:** Gaspar Lineros Reyes
+* **Software / Datos:** Gaspar Lineros
 * **Pedagógico / Documentación:** Camilo Gómez
