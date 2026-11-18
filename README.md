@@ -18,3 +18,4 @@ Simulador web interactivo de monitoreo ambiental diseñado para analizar la cali
 * **Hardware / Instrumentación:** Diego Cariz.
 * **Software / Datos:** Gaspar Lineros.
 * **Pedagógico / Documentación:** Camilo Gómez.
+.
